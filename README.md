@@ -20,6 +20,19 @@ This is a Restaurant Theme Website Template, designed using html and css. It was
 ## For Sponsor or Project Enquiry
 1. Email - medkouriat99@gmail.com.com
 
+## Front-end : 
+
+## Back-end : 
+
+## Database_shema : 
+
+    we have 4 tables : 
+    . order_table
+    . admin_table
+    . category_table
+    . food_table 
+![alt db](images/db.PNG)
+
 
 ## Follow Me on
  <p>All rights reserved. Designed By <a href="https://www.linkedin.com/in/mohamed-kouriat/ ">Kouriat Mohamed</a></p>
